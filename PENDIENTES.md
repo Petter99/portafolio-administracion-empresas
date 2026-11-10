@@ -1,7 +1,7 @@
 # Pendientes del portafolio
 
 ## Contenido que solo tú puedes completar
-- [ ] **Foto** en `assets/img/foto.jpg` y activarla en `presentacion.html` (ahora es un recuadro vacío; agrega `style="background-image:url(assets/img/foto.jpg)"` al div `#foto` y borra su texto).
+- [x] **Foto**: ya está en `assets/img/foto.jpg` (versión reducida de `Foto.jpg`).
 - [ ] **Presentación**: ampliar "Sobre mí", formación previa (diversificado, cursos, certificaciones), intereses y contacto (correo, LinkedIn, GitHub).
 - [ ] **Reflexión holística**: el texto es un borrador basado en los trabajos; reescribirlo con tus vivencias.
 - [ ] **Comentarios de pares**: son genéricos a propósito; editarlos en `assets/js/data.js` (`PARES`) si prefieres otra redacción.

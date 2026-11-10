@@ -2,7 +2,7 @@
 
 ## Contenido que solo tú puedes completar
 - [x] **Foto**: ya está en `assets/img/foto.jpg` (versión reducida de `Foto.jpg`).
-- [ ] **Presentación**: ampliar "Sobre mí", formación previa (diversificado, cursos, certificaciones), intereses y contacto (correo, LinkedIn, GitHub).
+- [x] **Presentación**: lista (intereses: Java y videojuegos; sin formación ni enlaces de contacto, a pedido).
 - [ ] **Reflexión holística**: el texto es un borrador basado en los trabajos; reescribirlo con tus vivencias.
 - [ ] **Comentarios de pares**: son genéricos a propósito; editarlos en `assets/js/data.js` (`PARES`) si prefieres otra redacción.
 - [ ] **Enlace de Canva** (`trabajos/URL_tarea.txt`: https://canva.link/pnx04lhlxligwxc): no sé a qué tarea corresponde, así que no está en el sitio. Indícame cuál es y lo agrego.
